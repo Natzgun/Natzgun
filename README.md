@@ -3,7 +3,7 @@
 <a href="#"><img src="https://w.wallhaven.cc/full/ym/wallhaven-ym1zx7.png" height="100%" width="100%" /></a>
 </p>
 
-Hello, My name is Zatiel, 20 years with 1 years of experience.
+Hello, My name is Erick, 20 years with 1 years of experience.
 I love linux, but I am interested in Arch Linux, I'm a
 computer sciencist, I love the linux terminal, because it, I develop cli applications for linux
 
@@ -20,10 +20,10 @@ computer sciencist, I love the linux terminal, because it, I develop cli applica
 - Fedora
 
 ### Stats
-[![Zatiel's stats](https://github-readme-stats.vercel.app/api?username=callmezatiel&show_icons=true&theme=react)](https://github.com/callmezatiel/github-readme-stats)
+[![Zatiel's stats](https://github-readme-stats.vercel.app/api?username=natzgun&show_icons=true&theme=react)](https://github.com/natzgun/github-readme-stats)
 
 ### Most used languages
-![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmezatiel&theme=react&layout=compact&hide=HTML)
+![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natzgun&theme=react&layout=compact&hide=HTML)
 
 ### Interests
 
