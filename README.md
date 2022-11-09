@@ -1,20 +1,23 @@
-<h3 align="center">Hey there, I'm Zatiel</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
+<h3 align="center">Hey there, I'm Erick Malcoaccha</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
 <p align="center">
-<a href="#"><img src="[https://i.postimg.cc/Ghssyc4b/3090ti.png](https://images.pling.com/img/00/00/56/26/59/1489816/cc2fe9b3b44de99e181e00d204c687464d2604cfc2efaa4fd31f1e2486901d3c0693.png)" height="100%" width="100%" /></a>
+<a href="#"><img src="https://w.wallhaven.cc/full/ym/wallhaven-ym1zx7.png" height="100%" width="100%" /></a>
 </p>
 
-Hello, My name is Zatiel, 29 years with 5 years of experience.
+Hello, My name is Zatiel, 20 years with 1 years of experience.
 I love linux, but I am interested in Arch Linux, I'm a
-web developer, I love the linux terminal, because it, I develop cli applications for linux
+computer sciencist, I love the linux terminal, because it, I develop cli applications for linux
 
 
 ### My preferred tecnologies are:
 
 - Javascript (Node.js)
+- C++
+- Python
 
 ### I am interested in:
 
 - Arch Linux (linux operative system)
+- Fedora
 
 ### Stats
 [![Zatiel's stats](https://github-readme-stats.vercel.app/api?username=callmezatiel&show_icons=true&theme=react)](https://github.com/callmezatiel/github-readme-stats)
