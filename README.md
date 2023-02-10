@@ -1,6 +1,6 @@
 <h3 align="center">Hey there, I'm Erick Malcoaccha</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
 <p align="center">
-<a href="#"><img src="https://w.wallhaven.cc/full/ym/wallhaven-ym1zx7.png" height="100%" width="100%" /></a>
+<a href="#"><img src="https://preview.redd.it/oi3mla8a59j71.png?width=640&crop=smart&auto=webp&s=73b44a76ceb9c4a6971cac75a4cdd12ce2604ad6" height="100%" width="100%" /></a>
 </p>
 
 Hello, My name is Erick, 20 years with 1 years of experience.
