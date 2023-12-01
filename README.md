@@ -7,6 +7,9 @@ Hello, My name is Erick, 20 years with 1 years of experience.
 I love linux, but I am interested in Arch Linux, I'm a
 computer sciencist, I love the linux terminal, because it, I develop cli applications for linux
 
+MY PORTFOLIO:
+[Here](https://erickrmd.vercel.app/)
+
 
 ### My preferred tecnologies are:
 
