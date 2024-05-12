@@ -8,13 +8,15 @@ I love linux, but I am interested in Arch Linux, I'm a
 computer sciencist, I love the linux terminal, because it, I develop cli applications for linux
 
 MY PORTFOLIO:
-[Here](https://erickrmd.vercel.app/)
+[Here](https://erickmalcoaccha.vercel.app/)
 
 
 ### My preferred tecnologies are:
-
-- Javascript (Node.js)
+- C
+- Rust
 - C++
+- Java
+- Javascript (Node.js)
 - Python
 
 ### I am interested in:
