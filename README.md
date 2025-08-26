@@ -20,16 +20,16 @@ MY PORTFOLIO:
 - Python
 
 ### I am interested in:
-- Graphics Programming
+- Computer Graphics
 - Software Engineering
 - Arch Linux (linux operative system)
 - Fedora
 
 ### Stats
-[![Zatiel's stats](https://github-readme-stats.vercel.app/api?username=natzgun&show_icons=true&theme=react)](https://github.com/natzgun/github-readme-stats)
+[![Erick's stats](https://github-readme-stats.vercel.app/api?username=natzgun&show_icons=true&theme=react)](https://github.com/natzgun/github-readme-stats)
 
 ### Most used languages
-![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natzgun&theme=react&layout=compact&hide=HTML)
+![Erick's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natzgun&theme=react&layout=compact&hide=HTML)
 
 ### Interests
 
