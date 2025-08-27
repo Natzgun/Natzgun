@@ -55,7 +55,7 @@ Hello, My name is Erick, 22 years with 1 years of experience.
 I love linux, but I am interested in Arch Linux, I'm a
 computer sciencist, I love the linux terminal -->
 
-
+---
 ### 👨‍💻 I am interested in:
 - 🎨 Computer Graphics  
 - 🛠️ Software Engineering  
