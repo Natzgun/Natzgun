@@ -10,7 +10,7 @@ Currently, I am an **indie learner in computer graphics**, building personal pro
 
 I love linux, but I am interested in Arch Linux, I love the linux terminal
 
-**My [portfolio here!](https://erickmalcoaccha.vercel.app/)**
+My <a href="https://erickmalcoaccha.vercel.app/" target="_blank">portfolio here!</a>
 
 
    <p align="left">
